@@ -1,0 +1,22 @@
+{
+ "features": [
+  "Age",
+  "Male sex",
+  "Gastrinoma",
+  "Glucagonoma",
+  "Other functioning histotype",
+  "Grade",
+  "Stage",
+  "Partial pancreatectomy",
+  "Pancreaticoduodenectomy",
+  "Total/extended pancreatectomy",
+  "Surgery NOS",
+  "Lymph nodes examined",
+  "Positive lymph nodes",
+  "Nodes not assessed",
+  "Rural hospital area"
+ ],
+ "median_nodes": 3.0,
+ "platt_a": -2.044957812606842,
+ "platt_b": 2.2357402022048496
+}
